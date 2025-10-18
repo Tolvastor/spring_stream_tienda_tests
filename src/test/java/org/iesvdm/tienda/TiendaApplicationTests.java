@@ -234,7 +234,7 @@ class TiendaApplicationTests {
     @Test
     void test13() {
         var listProds = prodRepo.findAll();
-        //TODO
+        System.out.println("Hola antonio");
     }
 
     /**
